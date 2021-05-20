@@ -39,5 +39,12 @@
 > 
 > [docker의 이해 : SKplanet Tacademy - youtube 토크ON세미나 1강](https://www.youtube.com/watch?v=o4_KESBNFhI)
 
+## WSL
+**참고 자료**
+> [위키백과 : WSL](https://ko.wikipedia.org/wiki/%EB%A6%AC%EB%88%85%EC%8A%A4%EC%9A%A9_%EC%9C%88%EB%8F%84%EC%9A%B0_%ED%95%98%EC%9C%84_%EC%8B%9C%EC%8A%A4%ED%85%9C)
+> 
+> [windows10에 WSL 설치](https://docs.microsoft.com/ko-kr/windows/wsl/install-win10)
+> 
+
 
 이외 다양한 환경, 사용방법 찾아보기
